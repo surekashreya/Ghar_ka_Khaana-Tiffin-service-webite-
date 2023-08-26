@@ -1,0 +1,48 @@
+.button {
+  background-color: #c31919;
+  border: none;
+  color: white;
+  padding: 10px 25px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  cursor: pointer;
+  border-radius: 5px;
+  margin-top: 5px;
+
+  margin-bottom: 5px;
+}
+
+.btn1 {
+  margin-left: 35%;
+}
+.btn2 {
+  margin-left: 5%;
+}
+.btn1:active {
+  box-shadow: 0 12px 16px 0 rgba(0, 0, 0, 0.24),
+    0 17px 50px 0 rgba(0, 0, 0, 0.19);
+  background-color: #f63c3c;
+}
+
+.btn2:active {
+  box-shadow: 0 12px 16px 0 rgba(0, 0, 0, 0.24),
+    0 17px 50px 0 rgba(0, 0, 0, 0.19);
+  background-color: #f63c3c;
+}
+
+/* .btn1{
+    background-color: red;
+    color: white;
+    border: 2px solid rgb(221, 13, 13);
+    border-radius: 10px;
+    margin-top: 50px;
+
+}
+.btn2{
+    background-color: red;
+    color: white;
+    border: 2px solid rgb(221, 13, 13);
+}
+ */

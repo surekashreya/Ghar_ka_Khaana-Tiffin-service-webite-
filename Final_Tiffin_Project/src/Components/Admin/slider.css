@@ -1,0 +1,43 @@
+.horizontal-cards {
+    width: 100%;
+    /* padding: 20% auto; */
+  }
+  
+  .card-boxing {
+    height: 650px;
+    background-color: #fff;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+    border-radius: 5px;
+    padding: 20px;
+    width: 80%;
+
+    margin: 0 10px;
+  }
+  .boxing{
+    display: inline-flexbox;
+    height: 70%;
+    background-color:#eae5ed;
+    padding: 40px;
+    width: 100%;
+  }
+
+  .slid{
+    display: inline-grid;
+    justify-items: flex-start;
+    width: 90vw;
+    justify-content: center;
+    align-content: center;
+
+  }
+
+  .subslid{
+    display: grid;
+    border: 2px solid grey;
+    /* justify-content: center;
+    align-content: flex-start; */
+    /* margin: 12px; */
+    max-width:max-content;
+    padding: 12px;
+    border-radius: 5px;
+
+  }
