@@ -1,4 +1,4 @@
-# Ghar_ka_Khaana-Tiffin-service-webite-
+# Ghar Ka Khaana (A Tiffin Service Website)
 
 ### Link for the video - 
 ### Tech Stack 
